@@ -1,0 +1,3 @@
+[submodule "themes/bulba"]
+	path = themes/bulba
+	url = https://github.com/abhishekg999/hexo-theme-maple
