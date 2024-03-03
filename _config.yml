@@ -6,7 +6,29 @@
 title: Abhishek's Blog
 subtitle: ''
 description: ''
-keywords: CTF Blog, Cybersecurity Blog, Abhishek Govindarasu, Web, Reverse, Misc, Crypto, Forensics, Pwn, Writeups, Tutorials, Cybersecurity, CTF, Capture The Flag, Security, Infosec, Hacking, Pentesting, Bug Bounty, Vulnerability, Exploit, Security Research
+keywords: 
+    - CTF Blog
+    - Cybersecurity Blog
+    - Abhishek Govindarasu
+    - Web
+    - Reverse
+    - Misc
+    - Crypto
+    - Forensics
+    - Pwn
+    - Writeup
+    - Tutorials
+    - Cybersecurity
+    - CTF
+    - Capture The Flag
+    - Security
+    - Infosec
+    - Hacking
+    - Pentesting
+    - Bug Bounty
+    - Vulnerability
+    - Exploit
+    - Security Research
 author: Abhishek Govindarasu
 language: en
 timezone: ''
@@ -104,3 +126,7 @@ deploy:
   type: git
   repo: https://github.com/abhishekg999/blog 
   branch: master
+
+sitemap:
+  path: 
+    - sitemap.xml
