@@ -1,6 +1,6 @@
 ---
 title: NewportBlakeCTF 2023 - sudoku-revenge
-date: 2023-12-08 21:45:36
+date: 2023-12-08 00:40:38
 tags:
 ---
 
