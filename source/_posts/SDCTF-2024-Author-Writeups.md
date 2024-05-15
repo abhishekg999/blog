@@ -828,7 +828,7 @@ for ( ; ; ) {
 }
 ```
 
-Really quickly, we will start to get results of tags that find INJECT string outside the `</table>` in the actual dom. (And if you try any of these as the `sharedby` param on the actual site, you will also see this behavior).
+Really quickly, we will start to get results of tags that find INJECT string outside the `</title>` in the actual dom. (And if you try any of these as the `sharedby` param on the actual site, you will also see this behavior).
 
 ```html
 Payload:  <table>INJECT<title>INJECT<filter>INJECT<progress>INJECT<textarea>INJECT<ol>INJECT<marquee>INJECT<colgroup>INJECT
