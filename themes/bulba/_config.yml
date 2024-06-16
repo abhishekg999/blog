@@ -1,0 +1,38 @@
+# Header
+nav:
+  Posts: /archives
+  # Categories: /category
+  # Tags: /tag
+
+# favicon
+favicon: /favicon.png
+
+# logo
+logo: /images/logo.svg
+
+# links
+links:
+  Github: https://github.com/abhishekg999
+  # ZhiHu:
+  # Twitter:
+  # Weibo:
+
+# analytics
+google_analytics: G-7CEEP3RBRL
+
+# mathjax
+fancybox: true
+
+# mathjax
+mathjax: true
+
+# echarts
+echarts: true
+
+# mermaid
+mermaid:
+  enable: true
+  # Available themes: default | dark | forest | neutral
+  theme: default
+
+

@@ -1,0 +1,23 @@
+<%- js('lib/nprogress/nprogress.js') %>
+<script>
+  $(document).ready(() => {
+    NProgress.configure({
+      showSpinner: false,
+    });
+    NProgress.start();
+    $("#nprogress .bar").css({
+      background: "#498764",
+    });
+    $("#nprogress .peg").css({
+      "box-shadow": "0 0 2px #498764, 0 0 4px #498764",
+    });
+    $("#nprogress .spinner-icon").css({
+      "border-top-color": "#498764",
+      "border-left-color": "#498764",
+    });
+    setTimeout(function () {
+      NProgress.done();
+      $(".fade").removeClass("out");
+    }, 800);
+  });
+</script>
