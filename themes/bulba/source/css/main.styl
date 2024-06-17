@@ -26,19 +26,8 @@ a:hover
 
 
 ::-webkit-scrollbar-thumb
-    background-color: var(--c-scroll);
+    background-color: var(--c-scrollbar);
     border-radius: 4px;
-
-.maple
-  position: absolute;
-  width: 24px;
-  height: 24px;
-  top: 0px;
-  left: 0px;
-  background-image: url(../img/logo.svg);
-  background-size: cover;
-  will-change: transform;
-
 
 @keyframes fall
   0%
@@ -104,4 +93,12 @@ a:hover
 
 .is-active-link::before {
   background-color: rgb(36, 141, 73)!important;
+}
+
+h1:before, h2:before, h3:before {
+    display: block;
+    content:" ";
+    margin-top: -80px;
+    height: 80px;
+    visibility: hidden;
 }
