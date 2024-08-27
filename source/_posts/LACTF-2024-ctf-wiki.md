@@ -1,7 +1,7 @@
 ---
-title: LACTF 2024 - ctf-wiki
+title: LACTF 2024 - Writeup (ctf-wiki)
 date: 2024-03-01 01:58:35
-tags:
+tags: web
 ---
 
 # **ctf-wiki | 38 solves**

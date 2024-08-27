@@ -10,7 +10,6 @@ Dependencies
 
 ```sh
 git clone https://github.com/abhishekg999/blog
-git submodule update --init --recursive
-npm install
+bun install
 hexo server
 ```

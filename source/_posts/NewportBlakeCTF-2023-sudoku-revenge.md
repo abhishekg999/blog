@@ -1,5 +1,5 @@
 ---
-title: NewportBlakeCTF 2023 - sudoku-revenge
+title: NewportBlakeCTF 2023 - Writeup (sudoku-revenge)
 date: 2023-12-08 00:40:38
 tags:
 ---
